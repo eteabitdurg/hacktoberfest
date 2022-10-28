@@ -1,7 +1,12 @@
+#### Name: eteabitdurg
+- Place: Durg, Chhattisgarh, India
+- Bio: Official Club of E&TC Department of Bhilai Institute of Technology, Durg
+- GitHub: [GitHub account name](GitHub link)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+ - GitHub: [eteabitdurg](https://github.com/eteabitdurg)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
